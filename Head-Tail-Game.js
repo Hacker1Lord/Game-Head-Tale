@@ -1,5 +1,3 @@
-Head/TailGame.js
-
 <!DOCTYPE html>
 <html>
 
